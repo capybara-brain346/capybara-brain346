@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @capybara-brain346
 - 👀 I’m interested in data sciences
-- 🌱 I’m currently learning data handling with c,c++ and python
+- 🌱 I’m currently learning EDA and ML using python
 - 💞️ I’m looking to collaborate on further complex project
 
 
