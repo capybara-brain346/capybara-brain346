@@ -7,7 +7,7 @@ Aspiring AIML Engineer
 Enthusiastic Artificial Intelligence & Machine Learning (AI/ML) student seeking to leverage my passion for technology to solve complex problems and drive innovation. Currently pursuing a degree in Artificial Intelligence & Data Science at DYPCOE. I'm eager to learn from experienced professionals and contribute to the advancement of the field.
 
 *   🌍  I'm based in India
-*   🖥️  See my portfolio at [My Portfolio](https://capybara-brain346.github.io/social-goggles/)
+*   🖥️  See my portfolio at [here](https://capybara-brain346.github.io/social-goggles/)
 *   ✉️  You can contact me at [choudhari.piyush@gmail.com](mailto:choudhari.piyush@gmail.com)
 
 ### Skills 
