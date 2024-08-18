@@ -43,5 +43,3 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/{capybara-brain346}/{capybara-brain346}/output/github-contribution-grid-snake-dark.svg)
-###
