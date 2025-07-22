@@ -1,12 +1,5 @@
 ## Hi, I'm Piyush 👋
 
-### 💻 Tech Focus
-
-- **Languages**: Python, TypeScript, SQL  
-- **Backend & APIs**: FastAPI, Flask, Django, Node.js  
-- **Databases**: PostgreSQL, MongoDB, MySQL, Neo4j  
-- **Cloud & DevOps**: AWS, Docker, GitHub Actions, Cloud SQL, Nginx
-
 ### 🔧 What I Do
 
 - Architect and deploy **modular, cloud-native backends** powering AI-driven applications.
