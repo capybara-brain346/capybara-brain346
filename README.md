@@ -8,7 +8,7 @@ piyush@capybara-brain346
 role        ▸ applied ai & backend engineer
 location    ▸ pune, india
 stack       ▸ python · go · typescript 
-website     ▸ piyushchoudhari.me
+website     ▸ piyushc.com
 x           ▸ x.com/piyush_yip
 linkedin    ▸ linkedin.com/in/piyush-choudhari
 ```
